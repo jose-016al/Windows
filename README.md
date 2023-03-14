@@ -2,13 +2,24 @@
 
 Mi personalizacion de windows ![windows](.screenshots/windows.png)  
 
-# Índice
+# Tabla de contenidos
+- [Actualizar Windows desde powershell](#actualizar-windows-desde-powershell)
 - [Personalizacion windows](#personalizacion-de-windows)
     - [Rounded TB](#rounded-tb)
     - [Quick Look](#quicklook)
     - [WinDynamicDesktop](#windynamicdesktop)
 - [Configuracion windows](#configuracion-de-windows)
     - [Microsoft PowerToys](#microsoft-powertoys)
+
+# Actualizar Windows desde powershell
+Podemos ver una lista de las actualizaciones pendientes
+```pwershell
+winget update
+```
+y podemos ejecutar el comando para actuallizar todas de una sola vex
+```powershell
+winger update --all
+```
 
 # Personalizacion de windows 
 Algunas aplicaciones que podemos usar para mejorar la apariencia de windows 11
