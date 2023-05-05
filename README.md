@@ -18,7 +18,7 @@ winget update
 ```
 y podemos ejecutar el comando para actuallizar todas de una sola vex
 ```powershell
-winger update --all
+winget update --all
 ```
 
 # Personalizacion de windows 
